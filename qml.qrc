@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>chartview.qml</file>
+        <file>welcomeview.qml</file>
+        <file>setview.qml</file>
+        <file>outputview.qml</file>
+        <file>image/star.png</file>
+        <file>image/eye.png</file>
+        <file>image/photo.png</file>
+        <file>image/play.png</file>
+        <file>image/pumpkin.png</file>
+        <file>image/settings.png</file>
+        <file>image/stop.png</file>
+        <file>image/background.jpg</file>
+        <file>image/logo.png</file>
+        <file>image/xiaohui.png</file>
+        <file>image/author.png</file>
+        <file>image/end.png</file>
+        <file>image/ended.png</file>
+        <file>image/noend.png</file>
+        <file>image/noplay.png</file>
+        <file>image/nostop.png</file>
+        <file>image/played.png</file>
+        <file>image/stoped.png</file>
+        <file>image/chart.png</file>
+        <file>image/icon.ico</file>
+        <file>image/home.png</file>
+        <file>image/main.png</file>
+        <file>image/title.png</file>
+        <file>image/sub1.png</file>
+        <file>image/sub3.png</file>
+        <file>image/sub4.png</file>
+        <file>image/sub2.png</file>
+        <file>AboutWindow.qml</file>
+        <file>image/ICONbig.png</file>
+    </qresource>
+</RCC>
